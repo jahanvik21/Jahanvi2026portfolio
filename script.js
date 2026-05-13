@@ -10,7 +10,6 @@ const projects = [
   { type: 'design', kind: 'image', src: './Assets/BURGER POST (1).png' },
   { type: 'design', kind: 'image', src: './Assets/WhatsApp Image 2025-05-22 at 00.32.49_79ddb107 (1).jpg' },
   { type: 'design', kind: 'image', src: './Assets/WhatsApp Image 2025-05-22 at 00.32.48_e0ce6e14 (1).jpg' },
-  { type: 'design', kind: 'image', src: './Assets/_MAKEUP HAIRSTYLEInstagram Post.png' },
   { type: 'design', kind: 'image', src: './Assets/Bridal Makeup Instagram Post.png' },
   { type: 'motion', kind: 'video', src: './Assets/Logo motion.mp4' },
   { type: 'motion', kind: 'video', src: './Assets/Bridal Makeup Photo Collage Instagram Story.mp4' },
