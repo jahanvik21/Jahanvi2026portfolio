@@ -8,6 +8,7 @@ const projects = [
   { type: 'design', kind: 'image', src: './Assets/Tech1.png' },
   { type: 'design', kind: 'image', src: './Assets/Gym.jpg' },
   { type: 'design', kind: 'image', src: './Assets/BURGER POST (1).png' },
+  { type: 'design', kind: 'image', src: './Assets/Sabse_satsa_sabse_accha.png' },
   { type: 'design', kind: 'image', src: './Assets/WhatsApp Image 2025-05-22 at 00.32.49_79ddb107 (1).jpg' },
   { type: 'design', kind: 'image', src: './Assets/WhatsApp Image 2025-05-22 at 00.32.48_e0ce6e14 (1).jpg' },
   { type: 'design', kind: 'image', src: './Assets/Bridal Makeup Instagram Post.png' },
